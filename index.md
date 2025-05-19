@@ -1,6 +1,11 @@
 # PROYECTO PROGRA 
-TEMA 1
-[TAREA 1](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/ECUACIONES%20LINEALES%20PT%201%20MATRIZ%202.py)
-TEMA 2 
-TEMA 3
-TEMA 
+1.[TAREA 1](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/ECUACIONES%20LINEALES%20PT%201%20MATRIZ%202.py)
+2.[TAREA 2]
+3.[TAREA 3]
+4.[TAREA 4]
+5.[TAREA 5]
+6.[TAREA 6]
+7.[TAREA 7]
+8.[TAREA 8]
+9.[TAREA 9]
+
