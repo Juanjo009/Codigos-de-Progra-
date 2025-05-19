@@ -1,5 +1,12 @@
 # PROYECTO PROGRA 
-1.[TAREA 1](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/ECUACIONES%20LINEALES%20PT%201%20MATRIZ%202.py)
+1.TAREA 1 REPASO DE PROGRAMACIÓN 
+[PARTE 1]
+[PARTE 1 MATRIZ 2](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/ECUACIONES%20LINEALES%20PT%201%20MATRIZ%202.py)
+
+
+
+
+
 2.[TAREA 2]
 3.[TAREA 3]
 4.[TAREA 4]
