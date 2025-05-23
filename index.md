@@ -19,5 +19,13 @@
 * [PARTE 2](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/ECUACIONES%20LINEALES%20PT%202.py)
 * [PARTE 2 MATRIZ 2](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/ECUACIONES%20LINEALES%20PT%202%20MATRIZ%202.py)
 
+5. TAREA 5
+* [DERIVACION NUMERICA](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/Derivacion%20Numerica.py)
+* [INTEGRACION NUMERICA](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/Integracion%20Numerica.py)
+
+6. TAREA 6
+*[INTERPOLACION LINEAL](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/INTERPOLACION%20LINEAL.py)
+*[INTERPOLACION CUADRATICA](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/INTERPOLACION%20CUADRATICA.py)
+*[INTERPOLACION DE NEWTON](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/INTERPOLACION%20DE%20NEWTON.py)
 
 
