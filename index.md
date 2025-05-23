@@ -24,8 +24,8 @@
 * [INTEGRACION NUMERICA](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/Integracion%20Numerica.py)
 
 6. TAREA 6
-*[INTERPOLACION LINEAL](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/INTERPOLACION%20LINEAL.py)
-*[INTERPOLACION CUADRATICA](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/INTERPOLACION%20CUADRATICA.py)
-*[INTERPOLACION DE NEWTON](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/INTERPOLACION%20DE%20NEWTON.py)
+* [INTERPOLACION LINEAL](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/INTERPOLACION%20LINEAL.py)
+* [INTERPOLACION CUADRATICA](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/INTERPOLACION%20CUADRATICA.py)
+* [INTERPOLACION DE NEWTON](https://github.com/Juanjo009/Codigos-de-Progra-/blob/main/INTERPOLACION%20DE%20NEWTON.py)
 
 
